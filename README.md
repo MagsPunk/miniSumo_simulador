@@ -1,2 +1,6 @@
 # miniSumo_simulador
-Este simulador está basado en las características físicas y comportamientos reales del robot mini sumo TITAN v4, ideal para practicar estrategias de combate, así como su manejo.
+🦁🤖 DELTA Robotics Team | Universidad Anáhuac 🦁🤖
+
+Simulador desarrollado por Marco G. con apoyo de IA.
+
+Entrena como un verdadero competidor de minisumo con una simulación basada en las características físicas y el comportamiento real del TITAN v4. Pon a prueba tus estrategias de combate, mejora tu control del robot y prepárate para la arena antes de la competencia.
